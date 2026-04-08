@@ -116,7 +116,7 @@ export default function FluidTypographyGenerator() {
         <div className="mb-10">
           <Link
             href="/"
-            className="text-sm text-gray-500 hover:text-violet-600"
+            className="text-sm bg-gray-200 p-2 text-gray-500 hover:text-violet-600"
           >
             ← Back
           </Link>
